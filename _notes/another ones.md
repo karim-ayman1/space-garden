@@ -1,1 +1,4 @@
-![[Drawing 2023-06-01 03.52.51.excalidraw]]
+
+> [!failure]- Failure 
+>   Error: You exceeded your current quota, please check your plan and billing det  ails.
+>  
