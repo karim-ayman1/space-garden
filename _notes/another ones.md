@@ -1,1 +1,1 @@
-![[Drawing 2023-06-01 03.45.20.excalidraw.svg]]
+![[Drawing 2023-06-01 03.52.51.excalidraw]]
