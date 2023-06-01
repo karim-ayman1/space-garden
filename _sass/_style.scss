@@ -1,6 +1,4 @@
-$color-primary: hsl(0, 0%, 0%);
-// white
-$color-white: hsl(0, 0%, 100%);
+$color-primary: hsl(0, 0%, 10%);
 $color-text: hsl(0, 0%, 20%);
 $color-subtext: hsl(0, 0%, 30%);
 $color-border: hsl(0, 0%, 85%);
@@ -16,8 +14,7 @@ body {
   line-height: 1.7;
   padding: 4vh 6vw;
   overflow-x: hidden;
-  background-color: $color-primary;
-  color: $color-white;
+  color: $color-text;
   font-size: 1rem;
   max-width: 63em;
 
@@ -83,10 +80,10 @@ a {
   padding: 0 0.1em;
   text-decoration: none;
   border-bottom: 1px solid $color-border;
-  color: #fffaf1;
+  color: $color-primary;
   &:hover {
-    color: $color-white !important;
-    background: #ffe8bc !important;
+    color: black !important;
+    background: #fffaf1;
   }
   &:after {
     position: relative;
@@ -104,7 +101,7 @@ a {
 
 *:focus {
   background: #ffe8bc !important;
-  color: $color-white !important;
+  color: black !important;
 }
 
 nav {
