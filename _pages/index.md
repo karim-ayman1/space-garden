@@ -7,7 +7,7 @@ permalink: /
 
 # Welcome to my tiny blog
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 24px;">
+<p style="padding: 3em 1em; background: #141414; border-radius: 24px;">
 I'm a programmer who loves to learn new things and share what I know with others. But I'm not just any programmer. I'm a  <span style="font-weight: bold">crazy</span> programmer. I love to push the limits of what's possible with code. I love to find new and creative ways to use code to solve problems. And I love to share my discoveries with the world.
 </p>
 
