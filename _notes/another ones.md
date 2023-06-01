@@ -1,1 +1,0 @@
-![[Untitled.canvas|Untitled]]
