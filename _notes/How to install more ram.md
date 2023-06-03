@@ -17,3 +17,4 @@ See how did this work?
 | how do we call it a table and it's not |   what to say  |
 |                                        |     |
 
+to install a new ram we need to need something l
