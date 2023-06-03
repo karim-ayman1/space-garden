@@ -10,7 +10,7 @@ banner: "https://images.unsplash.com/photo-1616355788928-edee67cca469?ixlib=rb-4
 # Welcome to my tiny blog
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 8px;">
-I'm a programmer who loves to learn new things and share what I know with others. I'm a  <span style="font-weight: bold">crazy</span> programmer. I love to push the limits of what's possible with code. I love to find new and creative ways to use code to solve problems. And I love to share my discoveries with the world.
+karim ayman salah el den  loves to learn new things and share what I know with others. I'm a  <span style="font-weight: bold">crazy</span> programmer. I love to push the limits of what's possible with code. I love to find new and creative ways to use code to solve problems. And I love to share my discoveries with the world.
 </p>
 
 <strong>Recent Additions</strong>
